@@ -5,8 +5,8 @@
 ### Tool I Use
 
 ![Unity 2D Experience](https://img.shields.io/badge/Unity%202D-2%20years%20experience-orange?style=for-the-badge&logo=unity&labelColor=blue) 
-![Pixel Experience](https://img.shields.io/badge/Pixel-1%20months%20experience-orange?style=for-the-badge&logo=aseprite&labelColor=blue) 
-![Vektor Experience](https://img.shields.io/badge/Vektor-4%20months%20experience-orange?style=for-the-badge&logo=adobeillustrator&labelColor=blue)
+![Pixel Experience](https://img.shields.io/badge/Pixel-1%20year%20experience-orange?style=for-the-badge&logo=aseprite&labelColor=blue) 
+![Vektor Experience](https://img.shields.io/badge/Vektor-1%20year%20experience-orange?style=for-the-badge&logo=adobeillustrator&labelColor=blue)
 
 ### Programming Language Experience
 
