@@ -32,7 +32,7 @@
 
 ### Connect with me:
 
-//&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.instagram.com/_ariutomo/"><img src="https://www.logo.wine/a/logo/Instagram/Instagram-Logo.wine.svg" width="32"></a>//
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/bazureza/"><img src="https://e7.pngegg.com/pngimages/76/840/png-clipart-social-media-logo-linkedin-computer-icons-social-media-blue-text.png" width="32"></a>
 
 ### 📕 Latest Posts
